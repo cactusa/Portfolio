@@ -1,0 +1,36 @@
+{
+	// don't forget about commas
+
+	// your main connection
+	"default": {
+
+		// address
+		"host": "ftp.vladthecactus.me.uk",
+		//"port": 22 // use 22 for SFTP
+
+		// credentials
+		"username": "vladthecactus.me.uk",
+		"password": "dxD!sYnJD",
+
+		// path to the folder matching the folder in which this file resides
+		"path": "/public_html/portfolio/"
+
+		// true = secured FTP connection
+		//"tls": false,
+
+		// true = upload on save, false = upload only manually
+		// "upload_on_save": true,
+
+		// "private_key":
+
+		// how long until connection closes [seconds]
+		//"timeout": 30,
+
+		// regular expression, when matches the file path of the file-to-be-uploaded, it cancels its upload
+		//"ignore": "",
+
+		// whether to check 'last updated' of the target file on server
+		//"check_time": true
+
+	}
+}
