@@ -1,0 +1,287 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"backgroun",
+				"background-image"
+			],
+			[
+				"it",
+				"italic"
+			],
+			[
+				"font",
+				"font-style"
+			],
+			[
+				"bac",
+				"background"
+			],
+			[
+				"ce",
+				"center"
+			],
+			[
+				"bol",
+				"bold"
+			],
+			[
+				"re",
+				"relative"
+			],
+			[
+				"margin",
+				"margin"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"con",
+				"content"
+			],
+			[
+				"bloc",
+				"block"
+			],
+			[
+				"backgrou",
+				"background-color"
+			],
+			[
+				"margi",
+				"margin"
+			],
+			[
+				"bl",
+				"block"
+			],
+			[
+				"img",
+				"img	Tag"
+			],
+			[
+				"borde",
+				"border-spacing"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"st",
+				"style	Tag"
+			],
+			[
+				"min",
+				"min-height"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 47.0,
+		"selected_items":
+		[
+			[
+				"install",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 449.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"echo 'fart'",
+			"ls la",
+			"ls"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Applications/MAMP/htdocs/personal-websites/portfolio"
+	],
+	"file_history":
+	[
+		"/Applications/MAMP/htdocs/personal-websites/portfolio/scss/style.scss",
+		"/Applications/MAMP/htdocs/personal-websites/portfolio/about/index.php",
+		"/Applications/MAMP/htdocs/personal-websites/portfolio/includes/sidebar.php",
+		"/Applications/MAMP/htdocs/personal-websites/portfolio/index.php",
+		"/Applications/MAMP/htdocs/personal-websites/portfolio/js/imgpreload.js",
+		"/Applications/MAMP/htdocs/personal-websites/portfolio/contact/index.php",
+		"/Applications/MAMP/htdocs/personal-websites/portfolio/config.rb",
+		"/Applications/MAMP/htdocs/personal-websites/portfolio/css/style.css",
+		"/Applications/MAMP/htdocs/personal-websites/portfolio/css/ie.css",
+		"/Users/vladislavaltanov/Desktop/mminit-noblink.js",
+		"/Users/vladislavaltanov/Documents/ITV-ideas/test screen/auto-scroll.js",
+		"/Users/vladislavaltanov/Documents/ITV-ideas/test screen/reset.css",
+		"/Users/vladislavaltanov/Documents/ITV-ideas/test screen/main.css",
+		"/Users/vladislavaltanov/boom.sh",
+		"/Applications/MAMP/htdocs/totalrecall/data/index.php"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"p {",
+			"p",
+			"class=\"blur\"",
+			"blur",
+			"nav",
+			"mmcore.Hi",
+			"setcookie",
+			"action",
+			"def",
+			"default",
+			"variant",
+			"cookie",
+			"setcookie",
+			"action",
+			"0mid",
+			"-",
+			"2",
+			"\">",
+			"</a></li>",
+			"<li><a href=\"#cookie"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"class=\"nav-links\"",
+			"nav-links"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"project": "portfolio.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"",
+				"/Applications/MAMP/htdocs/totalrecall/application/config/autoload.sublime-workspace"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 239.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
