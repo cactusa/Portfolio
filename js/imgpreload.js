@@ -9,7 +9,11 @@ $.fn.preload = function() {
 $([ '../img/facebook.png',
 	'../img/instagram.png',
 	'../img/twitter.png',
-	'../img/linkedin.png'
+	'../img/linkedin.png',
+	'img/facebook.png',
+	'img/instagram.png',
+	'img/twitter.png',
+	'img/linkedin.png'
 ]).preload();
 
 // Some more code

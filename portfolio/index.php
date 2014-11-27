@@ -32,13 +32,13 @@
                 <a rel="lightbox[thesis]" class="hidden" href="../img/cactiness-tips.png" title="An internal page of the website showing different uses of cacti."></a>
                 <dl>
                     <dt>My doing:</dt>
-                        <dd>Logo design</dd>
-                        <dd>Illustration/Graphics design</dd>
-                        <dd>Planning and managing the content</dd>
-                        <dd>Wordpress integration</dd>
-                        <dd>SEO</dd>
-                        <dd>CSS3 animation &amp; multiple background images (parallax effect)</dd>
-                        <dd>jQuery sidebar (uses page)</dd>
+                        <dd>&#9654; Logo design</dd>
+                        <dd>&#9654; Illustration/Graphics design</dd>
+                        <dd>&#9654; Planning and managing the content</dd>
+                        <dd>&#9654; Wordpress integration</dd>
+                        <dd>&#9654; SEO</dd>
+                        <dd>&#9654; CSS3 animation &amp; multiple background images (parallax effect)</dd>
+                        <dd>&#9654; jQuery sidebar (uses page)</dd>
                     <dt>The real thing:</dt>
                         <dd><a href="http://cactiness.com/">cactiness</a></dd>
                 </dl>
@@ -69,11 +69,11 @@
                 <a rel="lightbox[blinkbg]" class="hidden" href="../img/blinkbg-about.png" title="An internal page of the website saying a bit more about the business."></a>
                 <dl>
                     <dt>My doing:</dt>
-                        <dd>Logo design</dd>
-                        <dd>Illustration/Graphics design</dd>
-                        <dd>Planning and managing the content</dd>
-                        <dd>Integrating & styling PHP contact form</dd>
-                        <dd>SEO</dd>
+                        <dd>&#9654; Logo design</dd>
+                        <dd>&#9654; Illustration/Graphics design</dd>
+                        <dd>&#9654; Planning and managing the content</dd>
+                        <dd>&#9654; Integrating & styling PHP contact form</dd>
+                        <dd>&#9654; SEO</dd>
                     <dt>The real thing:</dt>
                         <dd><a href="http://blinkbg.com/">BlinkBG.com</a></dd>
                 </dl>
@@ -93,10 +93,10 @@
                 <a rel="lightbox[coffee]" class="hidden" href="../img/coffee-shop-find-us.png" title="More information on how to find the place."></a>
                 <dl>
                     <dt>My doing:</dt>
-                        <dd>Logo design</dd>
-                        <dd>Illustration/Graphics design</dd>
-                        <dd>Planning and managing the content</dd>
-                        <dd>Google maps integration</dd>
+                        <dd>&#9654; Logo design</dd>
+                        <dd>&#9654; Illustration/Graphics design</dd>
+                        <dd>&#9654; Planning and managing the content</dd>
+                        <dd>&#9654; Google maps integration</dd>
                     <dt>The real thing:</dt>
                         <dd><a href="http://vladthecactus.me.uk/webpage-design/project1/">Coffee Shop</a></dd>
                         <dd>username: user</dd>
@@ -121,9 +121,9 @@ to the Galaxy by Douglas Adams"><img src="../img/typesetting-homepage.png" width
                 <a rel="lightbox[typesetting]" class="hidden" href="../img/typesetting-reviews.png" title="This page displays a review of the book."></a>
                 <dl>
                     <dt>My doing:</dt>
-                        <dd>Typography styling</dd>
-                        <dd>CSS3 custom styling/effects</dd>
-                        <dd>Theme song integration using HTML5</dd>
+                        <dd>&#9654; Typography styling</dd>
+                        <dd>&#9654; CSS3 custom styling/effects</dd>
+                        <dd>&#9654; Theme song integration using HTML5</dd>
                     <dt>The real thing:</dt>
                         <dd><a href="http://vladthecactus.me.uk/applied-art-for-the-web/typesetting/">Typesetting</a></dd>
                 </dl>
@@ -143,8 +143,8 @@ to the Galaxy by Douglas Adams"><img src="../img/typesetting-homepage.png" width
                 <a rel="lightbox" href="../img/seed-conference.png" title="Makeover of the website of the Seed Conference | Chicago | 6 June 2008"><img src="../img/seed-conference.png" width="991" height="1963" alt="Makeover of the website of the Seed Conference | Chicago | 6 June 2008" /></a>
                 <dl>
                     <dt>My doing:</dt>
-                        <dd>Typography styling</dd>
-                        <dd>CSS3 custom styling / effects</dd>
+                        <dd>&#9654; Typography styling</dd>
+                        <dd>&#9654; CSS3 custom styling / effects</dd>
                     <dt>The real thing:</dt>
                         <dd><a href="http://vladthecactus.me.uk/applied-art-for-the-web/seed-conference/">Seed conference makeover</a></dd>
                 </dl>
@@ -160,12 +160,12 @@ to the Galaxy by Douglas Adams"><img src="../img/typesetting-homepage.png" width
                 <h2>Other Experiences</h2>
                 <dl>
                     <dt>Shortlist:</dt>
-                        <dd>Using HTML5</dd>
-                        <dd>Passionately using CSS3</dd>
-                        <dd>Comfortable using Photoshop</dd>
-                        <dd>Google Translate integration</dd>
-                        <dd>Experience using SCSS (SASS)</dd>
-                        <dd>Experience with WordPress</dd>
+                        <dd>&#9654; Using HTML5</dd>
+                        <dd>&#9654; Passionately using CSS3</dd>
+                        <dd>&#9654; Comfortable using Photoshop</dd>
+                        <dd>&#9654; Google Translate integration</dd>
+                        <dd>&#9654; Experience using SCSS (SASS)</dd>
+                        <dd>&#9654; Experience with WordPress</dd>
                 </dl>
                 <h3 class="accordionbutton">Details: [&hellip;]<span>▼</span></h3>
                 <div class="accordioncontent">
@@ -180,9 +180,9 @@ to the Galaxy by Douglas Adams"><img src="../img/typesetting-homepage.png" width
                 <a rel="lightbox[]" class="hidden" href="" title=""></a>
                 <dl>
                     <dt>My doing:</dt>
-                        <dd>Logo design</dd>
-                        <dd>Illustration/Graphics design</dd>
-                        <dd>Planning and managing the content</dd>
+                        <dd>&#9654; Logo design</dd>
+                        <dd>&#9654; Illustration/Graphics design</dd>
+                        <dd>&#9654; Planning and managing the content</dd>
                     <dt>The real thing:</dt>
                         <dd><a href="">BlinkBG</a></dd>
                 </dl>
