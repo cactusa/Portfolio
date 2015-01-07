@@ -43,6 +43,11 @@ html{
 	background: url(../img/light_wool.png) repeat;
 }
 
+html {
+    margin-left: calc(100vw - 100%);
+    margin-right: 0;
+}
+
 #wrapper{
 	position: relative;
 	min-height: 100%;

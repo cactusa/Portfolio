@@ -23,7 +23,7 @@
 						echo '
 					<li><a id="currentpage" class="nav-links" href="../portfolio" accesskey="2">Portfolio</a></li>';
 					}
-          else {
+          			else {
 						echo '
 					<li><a class="nav-links" href="../portfolio" accesskey="2">Portfolio</a></li>';
 					}
@@ -31,7 +31,7 @@
 						echo '
 					<li><a id="currentpage" class="nav-links" href="../about" accesskey="3">About</a></li>';
 					}
-          else {
+          			else {
 						echo '
 					<li><a class="nav-links" href="../about" accesskey="3">About</a></li>';
 					}
@@ -39,7 +39,7 @@
 						echo '
 					<li><a id="currentpage" class="nav-links last" href="../contact" accesskey="4">Contact</a></li>';
 					}
-          else {
+          			else {
 						echo '
 					<li><a class="nav-links last" href="../contact" accesskey="4">Contact</a></li>';
 					}

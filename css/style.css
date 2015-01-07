@@ -58,6 +58,12 @@ html {
 }
 
 /* line 46, ../scss/style.scss */
+html {
+  margin-left: calc(100vw - 100%);
+  margin-right: 0;
+}
+
+/* line 51, ../scss/style.scss */
 #wrapper {
   position: relative;
   min-height: 100%;
@@ -66,40 +72,40 @@ html {
 }
 
 /* Scrollbar styling for Webkit*/
-/* line 55, ../scss/style.scss */
+/* line 60, ../scss/style.scss */
 ::-webkit-scrollbar {
   width: 12px;
 }
 
-/* line 59, ../scss/style.scss */
+/* line 64, ../scss/style.scss */
 ::-webkit-scrollbar-track {
   -webkit-box-shadow: inset 0 0 6px rgba(0, 0, 0, 0.3);
   border-radius: 10px;
   background-color: white;
 }
 
-/* line 65, ../scss/style.scss */
+/* line 70, ../scss/style.scss */
 ::-webkit-scrollbar-thumb {
   border-radius: 10px;
   -webkit-box-shadow: inset 0 0 6px rgba(0, 0, 0, 0.5);
   background-color: #DFEDD0;
 }
 
-/* line 70, ../scss/style.scss */
+/* line 75, ../scss/style.scss */
 ::-webkit-scrollbar-thumb:hover {
   background-color: #ACD373;
 }
 
 /* END Scrollbar styling for Webkit*/
 /* Hidden details for hotkey use. */
-/* line 78, ../scss/style.scss */
+/* line 83, ../scss/style.scss */
 .details {
   display: none;
   position: absolute;
   top: 0;
   right: 0;
 }
-/* line 83, ../scss/style.scss */
+/* line 88, ../scss/style.scss */
 .details p {
   max-width: 700px;
   padding: 10px 30px;
@@ -113,7 +119,7 @@ html {
   opacity: 0.7;
 }
 
-/* line 99, ../scss/style.scss */
+/* line 104, ../scss/style.scss */
 button {
   width: 20px;
   cursor: pointer;
@@ -128,7 +134,7 @@ button {
 /* END Hidden details for hotkey use. */
 /* Sidebar elements */
 /* header, nav, footer */
-/* line 115, ../scss/style.scss */
+/* line 120, ../scss/style.scss */
 #sidebar {
   position: fixed;
   width: 200px;
@@ -138,7 +144,7 @@ button {
   box-shadow: 0px 0px 15px 0px rgba(0, 0, 0, 0.1);
 }
 
-/* line 126, ../scss/style.scss */
+/* line 131, ../scss/style.scss */
 header {
   margin: 40px 0 0 0;
   position: relative;
@@ -146,7 +152,7 @@ header {
   background-color: #fff;
 }
 
-/* line 133, ../scss/style.scss */
+/* line 138, ../scss/style.scss */
 header img {
   display: block;
   margin: 0px auto;
@@ -157,21 +163,21 @@ header img {
   transition: all 500ms ease;
 }
 
-/* line 143, ../scss/style.scss */
+/* line 148, ../scss/style.scss */
 header a > img {
   opacity: 0.4;
   -moz-opacity: 0.4;
   filter: alpha(opacity=4);
 }
 
-/* line 149, ../scss/style.scss */
+/* line 154, ../scss/style.scss */
 header a:hover > img {
   opacity: 1;
   -moz-opacity: 1;
   filter: alpha(opacity=100);
 }
 
-/* line 155, ../scss/style.scss */
+/* line 160, ../scss/style.scss */
 header h4 {
   display: block;
   margin: 30px 10px;
@@ -182,7 +188,7 @@ header h4 {
   font-style: italic;
 }
 
-/* line 165, ../scss/style.scss */
+/* line 170, ../scss/style.scss */
 nav {
   margin: 60px 0 0 0;
   font-size: 1.2em;
@@ -191,7 +197,7 @@ nav {
   background-color: #fff;
 }
 
-/* line 177, ../scss/style.scss */
+/* line 182, ../scss/style.scss */
 nav a {
   display: block;
   color: #555;
@@ -207,31 +213,31 @@ nav a {
   transition: all 500ms ease;
 }
 
-/* line 193, ../scss/style.scss */
+/* line 198, ../scss/style.scss */
 .last {
   border-bottom: 1px solid #ddd;
 }
 
-/* line 197, ../scss/style.scss */
+/* line 202, ../scss/style.scss */
 nav a:hover {
   text-indent: 90px;
 }
 
-/* line 205, ../scss/style.scss */
+/* line 210, ../scss/style.scss */
 .nav-links:hover {
   color: #6d9d3c;
   text-shadow: 0 0 0px rgba(0, 0, 0, 0);
 }
 
 /* END Blurry text*/
-/* line 210, ../scss/style.scss */
+/* line 215, ../scss/style.scss */
 #currentpage {
   text-indent: 90px;
   color: #6d9d3c;
   text-shadow: 0 0 0px rgba(0, 0, 0, 0.5);
 }
 
-/* line 216, ../scss/style.scss */
+/* line 221, ../scss/style.scss */
 footer {
   margin: 0 0 0 15px;
   position: fixed;
@@ -239,7 +245,7 @@ footer {
   z-index: 0;
 }
 
-/* line 223, ../scss/style.scss */
+/* line 228, ../scss/style.scss */
 footer p {
   font-family: ColaborateRegular, Arial, Helvetica, sans-serif;
   font-size: 1em;
@@ -248,17 +254,17 @@ footer p {
   margin: 10px 0 0 0;
 }
 
-/* line 231, ../scss/style.scss */
+/* line 236, ../scss/style.scss */
 footer ul {
   text-align: center;
 }
 
-/* line 235, ../scss/style.scss */
+/* line 240, ../scss/style.scss */
 footer li {
   display: inline-block;
 }
 
-/* line 239, ../scss/style.scss */
+/* line 244, ../scss/style.scss */
 .facebookicon, .twittericon, .linkedinicon, .instagramicon, .githubicon {
   opacity: 0.4;
   -moz-opacity: 0.4;
@@ -273,14 +279,14 @@ footer li {
   transition: all 500ms ease;
 }
 
-/* line 253, ../scss/style.scss */
+/* line 258, ../scss/style.scss */
 .facebookicon:hover, .twittericon:hover, .linkedinicon:hover, .instagramicon:hover, .githubicon:hover {
   opacity: 1;
   -moz-opacity: 1;
   filter: alpha(opacity=100);
 }
 
-/* line 259, ../scss/style.scss */
+/* line 264, ../scss/style.scss */
 .githubicon {
   opacity: 0.5;
   -moz-opacity: 0.5;
@@ -288,12 +294,12 @@ footer li {
   background: url(../img/github-green.png) no-repeat;
 }
 
-/* line 265, ../scss/style.scss */
+/* line 270, ../scss/style.scss */
 .githubicon:hover {
   background: url(../img/github.png) no-repeat;
 }
 
-/* line 269, ../scss/style.scss */
+/* line 274, ../scss/style.scss */
 .instagramicon {
   opacity: 0.5;
   -moz-opacity: 0.5;
@@ -301,22 +307,22 @@ footer li {
   background: url(../img/instagram-green.png) no-repeat;
 }
 
-/* line 276, ../scss/style.scss */
+/* line 281, ../scss/style.scss */
 .instagramicon:hover {
   background: url(../img/instagram.png) no-repeat;
 }
 
-/* line 280, ../scss/style.scss */
+/* line 285, ../scss/style.scss */
 .linkedinicon {
   background: url(../img/linkedin-green.png) no-repeat;
 }
 
-/* line 284, ../scss/style.scss */
+/* line 289, ../scss/style.scss */
 .linkedinicon:hover {
   background: url(../img/linkedin.png) no-repeat;
 }
 
-/* line 288, ../scss/style.scss */
+/* line 293, ../scss/style.scss */
 .twittericon {
   opacity: 0.5;
   -moz-opacity: 0.5;
@@ -324,24 +330,24 @@ footer li {
   background: url(../img/twitter-green.png) no-repeat;
 }
 
-/* line 295, ../scss/style.scss */
+/* line 300, ../scss/style.scss */
 .twittericon:hover {
   background: url(../img/twitter.png) no-repeat;
 }
 
-/* line 299, ../scss/style.scss */
+/* line 304, ../scss/style.scss */
 .facebookicon {
   background: url(../img/facebook-green.png) no-repeat;
 }
 
-/* line 303, ../scss/style.scss */
+/* line 308, ../scss/style.scss */
 .facebookicon:hover {
   background: url(../img/facebook.png) no-repeat;
 }
 
 /* END Sidebar elements */
 /* Main content area */
-/* line 311, ../scss/style.scss */
+/* line 316, ../scss/style.scss */
 #content {
   max-width: 760px;
   margin: 0 0 0 200px;
@@ -351,7 +357,7 @@ footer li {
 
 /* Main content area */
 /* Portfolio page styling */
-/* line 323, ../scss/style.scss */
+/* line 328, ../scss/style.scss */
 article {
   border: 1px solid #ddd;
   border-width: 1px 0 0 0;
@@ -359,7 +365,7 @@ article {
   clear: both;
 }
 
-/* line 330, ../scss/style.scss */
+/* line 335, ../scss/style.scss */
 article > a {
   display: block;
   float: left;
@@ -372,12 +378,12 @@ article > a {
   box-shadow: 0px 0px 15px 0px rgba(0, 0, 0, 0.2);
 }
 
-/* line 346, ../scss/style.scss */
+/* line 351, ../scss/style.scss */
 .hidden {
   display: none;
 }
 
-/* line 350, ../scss/style.scss */
+/* line 355, ../scss/style.scss */
 article dl {
   width: 260px;
   float: left;
@@ -385,7 +391,7 @@ article dl {
   margin: 0 0 30px 0;
 }
 
-/* line 357, ../scss/style.scss */
+/* line 362, ../scss/style.scss */
 article dl dt {
   font-family: ColaborateRegular, Arial, Helvetica, sans-serif;
   font-size: 1.2em;
@@ -396,12 +402,12 @@ article dl dt {
   display: inline-block;
 }
 
-/* line 367, ../scss/style.scss */
+/* line 372, ../scss/style.scss */
 article dl dt:nth-of-type(2) {
   margin-top: 25px;
 }
 
-/* line 371, ../scss/style.scss */
+/* line 376, ../scss/style.scss */
 article dl dd {
   font-family: ColaborateThinRegular, Arial, Helvetica, sans-serif;
   font-size: 1.1em;
@@ -409,7 +415,7 @@ article dl dd {
   text-indent: 2px;
 }
 
-/* line 378, ../scss/style.scss */
+/* line 383, ../scss/style.scss */
 article dl dd a, .accordioncontent a {
   font-family: ColaborateRegular, Arial, Helvetica, sans-serif;
   color: #6d9d3c;
@@ -419,32 +425,32 @@ article dl dd a, .accordioncontent a {
 
 /* END Portfolio page styling */
 /* Accordion styling*/
-/* line 389, ../scss/style.scss */
+/* line 394, ../scss/style.scss */
 .accordionbutton {
   max-width: 100%;
   cursor: pointer;
   clear: both;
 }
 
-/* line 394, ../scss/style.scss */
+/* line 399, ../scss/style.scss */
 .accordionbutton > span {
   display: block;
   float: right;
 }
 
-/* line 398, ../scss/style.scss */
+/* line 403, ../scss/style.scss */
 .accordioncontent {
   max-width: 100%;
   font-size: 0.9em;
 }
 
-/* line 403, ../scss/style.scss */
+/* line 408, ../scss/style.scss */
 .on {
   font-style: italic;
   background-color: #dfedd0;
 }
 
-/* line 408, ../scss/style.scss */
+/* line 413, ../scss/style.scss */
 .over {
   font-style: italic;
   background-color: #dfedd0;
@@ -452,14 +458,14 @@ article dl dd a, .accordioncontent a {
 
 /* END Accordion styling*/
 /* Some typography settings */
-/* line 417, ../scss/style.scss */
+/* line 422, ../scss/style.scss */
 #content h1 {
   font-family: ColaborateRegular, Arial, Helvetica, sans-serif;
   font-size: 2.4em;
   margin: 0 0 60px 0;
 }
 
-/* line 423, ../scss/style.scss */
+/* line 428, ../scss/style.scss */
 #content h2 {
   font-family: ColaborateMediumRegular, Arial, Helvetica, sans-serif;
   font-size: 1.2em;
@@ -467,14 +473,14 @@ article dl dd a, .accordioncontent a {
   margin: 0 0 30px 0;
 }
 
-/* line 430, ../scss/style.scss */
+/* line 435, ../scss/style.scss */
 #content h3 {
   font-family: ColaborateRegular, Arial, Helvetica, sans-serif;
   font-size: 1.2em;
   line-height: 1.4em;
 }
 
-/* line 436, ../scss/style.scss */
+/* line 441, ../scss/style.scss */
 #content p {
   font-family: ColaborateLightRegular, Arial, Helvetica, sans-serif;
   font-size: 1.2em;
@@ -482,12 +488,12 @@ article dl dd a, .accordioncontent a {
   margin: 10px 0;
 }
 
-/* line 443, ../scss/style.scss */
+/* line 448, ../scss/style.scss */
 #content a:hover {
   text-decoration: underline;
 }
 
-/* line 447, ../scss/style.scss */
+/* line 452, ../scss/style.scss */
 .italicparagraph {
   font-family: ColaborateLightRegular, Arial, Helvetica, sans-serif;
   font-size: 1.2em;
@@ -495,20 +501,20 @@ article dl dd a, .accordioncontent a {
   font-style: italic;
 }
 
-/* line 454, ../scss/style.scss */
+/* line 459, ../scss/style.scss */
 .homepageparagraph {
   margin: 40px 0 0 0 !important;
   padding: 0 0 0 20px;
 }
 
-/* line 459, ../scss/style.scss */
+/* line 464, ../scss/style.scss */
 .arrow {
   font-size: 1.4em;
 }
 
 /* END Some typography settings */
 /* Contact form */
-/* line 467, ../scss/style.scss */
+/* line 472, ../scss/style.scss */
 .contactformbutton input[type="submit"] {
   background: url(../contact/contact_files/img/email.png) no-repeat 0% 50%;
   border: 1px;
@@ -526,14 +532,14 @@ article dl dd a, .accordioncontent a {
   transition: all 500ms ease;
 }
 
-/* line 484, ../scss/style.scss */
+/* line 489, ../scss/style.scss */
 .contactformbutton input[type="submit"]:hover {
   opacity: 1;
   -moz-opacity: 1;
   filter: alpha(opacity=1);
 }
 
-/* line 490, ../scss/style.scss */
+/* line 495, ../scss/style.scss */
 .contactformbutton input[type="reset"] {
   background: url(../contact/contact_files/img/error.png) no-repeat 0% 50%;
   border: 1px;
@@ -551,34 +557,34 @@ article dl dd a, .accordioncontent a {
   transition: all 500ms ease;
 }
 
-/* line 507, ../scss/style.scss */
+/* line 512, ../scss/style.scss */
 .contactformbutton input[type="reset"]:hover {
   opacity: 1;
   -moz-opacity: 1;
   filter: alpha(opacity=1);
 }
 
-/* line 513, ../scss/style.scss */
+/* line 518, ../scss/style.scss */
 .contactformbutton input, .contactformbutton textarea, .contactformbutton select {
   border: 1px solid #add65b;
 }
 
-/* line 514, ../scss/style.scss */
+/* line 519, ../scss/style.scss */
 .contactformbutton input[type="radio"] {
   border: none;
 }
 
-/* line 515, ../scss/style.scss */
+/* line 520, ../scss/style.scss */
 .contactformbutton input:focus, .contactformbutton textarea:focus {
   border: 1px dashed #add65b;
 }
 
-/* line 516, ../scss/style.scss */
+/* line 521, ../scss/style.scss */
 .contactformbutton input.error, .contactformbutton textarea.error {
   border: 1px dashed #F93;
 }
 
-/* line 517, ../scss/style.scss */
+/* line 522, ../scss/style.scss */
 form.contactme label {
   display: inline-block;
   width: 120px;
@@ -589,31 +595,31 @@ form.contactme label {
 }
 
 /*-------------------------------------------------------------------*/
-/* line 531, ../scss/style.scss */
+/* line 536, ../scss/style.scss */
 fieldset {
   width: auto;
   border: 1px solid #ddd;
   border-width: 1px 0 1px 0;
 }
 
-/* line 537, ../scss/style.scss */
+/* line 542, ../scss/style.scss */
 legEND {
   font-family: ColaborateMediumRegular, Arial, Helvetica, sans-serif;
   font-size: 1.2em;
 }
 
-/* line 542, ../scss/style.scss */
+/* line 547, ../scss/style.scss */
 label {
   font-size: 1em;
 }
 
-/* line 546, ../scss/style.scss */
+/* line 551, ../scss/style.scss */
 label.error {
   font-size: 0.8em;
   color: #df5b00 !important;
 }
 
-/* line 551, ../scss/style.scss */
+/* line 556, ../scss/style.scss */
 input, textarea {
   font-family: ColaborateLightRegular, Arial, Helvetica, sans-serif;
   font-size: 1em;
@@ -621,24 +627,24 @@ input, textarea {
   margin: 0 20px 0 0;
 }
 
-/* line 558, ../scss/style.scss */
+/* line 563, ../scss/style.scss */
 #fname, #email {
   width: 300px;
 }
 
-/* line 562, ../scss/style.scss */
+/* line 567, ../scss/style.scss */
 #captcha {
   width: 30px;
   margin-bottom: 20px;
 }
 
-/* line 567, ../scss/style.scss */
+/* line 572, ../scss/style.scss */
 textarea {
   width: 300px;
   height: 120px;
 }
 
-/* line 572, ../scss/style.scss */
+/* line 577, ../scss/style.scss */
 #results {
   font-family: ColaborateLightRegular, Arial, Helvetica, sans-serif;
   font-size: 1em;
@@ -647,7 +653,7 @@ textarea {
 
 /* END Contact form */
 /* Homepage image styling */
-/* line 582, ../scss/style.scss */
+/* line 587, ../scss/style.scss */
 .myface {
   display: block;
   opacity: 0.8;
@@ -660,7 +666,7 @@ textarea {
 
 /* Add image caption - by Chris Coyier */
 /* http://css-tricks.com/slide-in-image-captions/ */
-/* line 594, ../scss/style.scss */
+/* line 599, ../scss/style.scss */
 figure {
   float: right;
   display: block;
@@ -670,7 +676,7 @@ figure {
   border: 2px solid #dfedd0;
 }
 
-/* line 604, ../scss/style.scss */
+/* line 609, ../scss/style.scss */
 figcaption {
   font-family: ColaborateLightRegular, Arial, Helvetica, sans-serif;
   font-size: 1.2em;
@@ -689,35 +695,35 @@ figcaption {
   transition: all 600ms ease;
 }
 
-/* line 623, ../scss/style.scss */
+/* line 628, ../scss/style.scss */
 figure:hover figcaption {
   opacity: 1;
   left: 0;
 }
 
-/* line 627, ../scss/style.scss */
+/* line 632, ../scss/style.scss */
 .cap-bot figcaption {
   left: 0;
   bottom: -30%;
 }
 
-/* line 628, ../scss/style.scss */
+/* line 633, ../scss/style.scss */
 .cap-bot:hover figcaption {
   bottom: 0;
 }
 
-/* line 629, ../scss/style.scss */
+/* line 634, ../scss/style.scss */
 .cap-bot:hover .myface {
   opacity: 1;
 }
 
-/* line 630, ../scss/style.scss */
+/* line 635, ../scss/style.scss */
 .cap-bot:before {
   bottom: 10px;
   right: 10px;
 }
 
-/* line 631, ../scss/style.scss */
+/* line 636, ../scss/style.scss */
 figure:before {
   content: "i";
   position: absolute;
@@ -742,14 +748,14 @@ figure:before {
   opacity: 1;
 }
 
-/* line 654, ../scss/style.scss */
+/* line 659, ../scss/style.scss */
 figure:hover:before {
   opacity: 0;
 }
 
 /* END Homepage image styling */
 /* Playful text effects */
-/* line 662, ../scss/style.scss */
+/* line 667, ../scss/style.scss */
 .effects {
   display: inline-block;
   -webkit-transition: all 200ms ease;
@@ -759,7 +765,7 @@ figure:hover:before {
   transition: all 200ms ease;
 }
 
-/* line 672, ../scss/style.scss */
+/* line 677, ../scss/style.scss */
 .effects:hover {
   -moz-transform: scale(1) rotate(0deg) translate(0px, -7px) skew(0deg, 0deg);
   -webkit-transform: scale(1) rotate(0deg) translate(0px, -7px) skew(0deg, 0deg);
