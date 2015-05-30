@@ -40,6 +40,7 @@ html, body{
 }
 
 html{
+	overflow-y: scroll;
 	background: url(../img/light_wool.png) repeat;
 }
 
@@ -220,7 +221,7 @@ footer{
 	z-index: 0;
 }
 
-footer p{
+footer p {
 	font-family: ColaborateRegular, Arial, Helvetica, sans-serif;
 	font-size: 1em;
 	color: #999;
@@ -247,7 +248,7 @@ footer li{
 	-moz-transition: all 500ms ease;
 	-ms-transition: all 500ms ease;
 	-o-transition: all 500ms ease;
-	transition: all 500ms ease;
+	transition: all 500ms ease
 }
 
 .facebookicon:hover, .twittericon:hover, .linkedinicon:hover, .instagramicon:hover, .githubicon:hover{
