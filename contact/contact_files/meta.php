@@ -1,4 +1,4 @@
-<?
+<?php
 $no1 = rand(0,9);
 $no2 = rand(0,9);
 $no3 = $no1+$no2;

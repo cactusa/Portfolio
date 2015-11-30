@@ -1,0 +1,19 @@
+/* Defaults */
+* {
+	-moz-box-sizing: border-box;
+	-webkit-box-sizing: border-box;
+	box-sizing: border-box;
+}
+
+a {
+	text-decoration: none;
+	color: #6d9d3c;
+}
+
+::selection{
+	background-color: #dfedd0 !important;
+}
+
+body {
+	font-family: ColaborateRegular, Arial, Helvetica, sans-serif;
+}

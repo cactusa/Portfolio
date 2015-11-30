@@ -16,7 +16,7 @@
 			    <label for="message" id="message_label">Message *</label><textarea rows="10" cols="10" name="message" id="message"></textarea>
 			<br />
 			<br />
-			 	<label for="captcha" id="captcha_label"><img src="contact_files/nb/<? echo $no1; ?>.gif" alt="" /> <span style="position:relative; top:-3px;">+</span> <img src="contact_files/nb/<? echo $no2; ?>.gif" alt="" /> <span style="position:relative; top:-3px;">= </span></label><input type="text" name="captcha" id="captcha" size="10" maxlength="2" /> 
+			 	<label for="captcha" id="captcha_label"><img src="contact_files/nb/<?php echo $no1; ?>.gif" alt="" /> <span style="position:relative; top:-3px;">+</span> <img src="contact_files/nb/<?php echo $no2; ?>.gif" alt="" /> <span style="position:relative; top:-3px;">= </span></label><input type="text" name="captcha" id="captcha" size="10" maxlength="2" /> 
 			<br />    
 				<input type="reset" name="reset" value="Reset" />
 				<input type="submit" name="submit" value="Send" />
