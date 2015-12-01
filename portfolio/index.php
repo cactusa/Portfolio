@@ -31,7 +31,7 @@
                             <dd>CSS3 animation &amp; parallax effect</dd>
                             <dd>jQuery sidebar</dd>
                         <dt>The real thing:</dt>
-                            <dd><a href="http://cactiness.com/">cactiness</a></dd>
+                            <dd><a href="https://cactiness-cactusa.c9users.io/" target="_blank">cactiness</a></dd>
                     </dl>
                     <h3 class="accordionbutton">Project details: [&hellip;]<span>▼</span></h3>
                     <div class="accordioncontent">
@@ -66,7 +66,7 @@
                             <dd>Integrating & styling PHP contact form</dd>
                             <dd>SEO</dd>
                         <dt>The real thing:</dt>
-                            <dd><a href="http://blinkbg.com/">BlinkBG.com</a></dd>
+                            <dd><a href="http://blinkbg.com/" target="_blank">BlinkBG.com</a></dd>
                     </dl>
                     <h3 class="accordionbutton">Project details: [&hellip;]<span>▼</span></h3>
                     <div class="accordioncontent">
@@ -89,7 +89,7 @@
                             <dd>Planning and managing the content</dd>
                             <dd>Google maps integration</dd>
                         <dt>The real thing:</dt>
-                            <dd><a href="http://vladthecactus.me.uk/webpage-design/project1/">Coffee Shop</a></dd>
+                            <dd><a href="https://projects-cactusa.c9users.io/webpage-design/project1/" target="_blank">Coffee Shop</a></dd>
                             <dd>username: user</dd>
                             <dd>password: access</dd>
                     </dl>
@@ -115,7 +115,7 @@
                             <dd>CSS3 custom styling/effects</dd>
                             <dd>Theme song integration using HTML5</dd>
                         <dt>The real thing:</dt>
-                            <dd><a href="http://vladthecactus.me.uk/applied-art-for-the-web/typesetting/">Typesetting</a></dd>
+                            <dd><a href="https://projects-cactusa.c9users.io/applied-art-for-the-web/typesetting/" target="_blank">Typesetting</a></dd>
                     </dl>
                     <h3 class="accordionbutton">Project details: [&hellip;]<span>▼</span></h3>
                     <div class="accordioncontent">
@@ -136,7 +136,7 @@
                             <dd>Typography styling</dd>
                             <dd>CSS3 custom styling / effects</dd>
                         <dt>The real thing:</dt>
-                            <dd><a href="http://vladthecactus.me.uk/applied-art-for-the-web/seed-conference/">Seed conference makeover</a></dd>
+                            <dd><a href="https://projects-cactusa.c9users.io/applied-art-for-the-web/seed-conference/" target="_blank">Seed conference makeover</a></dd>
                     </dl>
                     <h3 class="accordionbutton">Project details: [&hellip;]<span>▼</span></h3>
                     <div class="accordioncontent">
