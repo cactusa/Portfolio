@@ -207,3 +207,14 @@ pip-log.txt
 # Cloud9 IDE - http://c9.io
 .c9revisions
 .c9
+
+.well-known/
+401.shtml
+403.shtml
+404.shtml
+500.shtml
+*/error_log
+cgi-bin/
+error_log
+htaccess-sh.txt
+sh_logo.png
