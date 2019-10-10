@@ -5,6 +5,7 @@
         <title>Vlad's Portfolio Website | Contacts</title>
         <?php $this_page = "contact";?>
         <?php include('../includes/head.php');?>
+        <?php include('contact_files/meta.php');?>
     </head>
     <body>
     	<div id="wrapper">

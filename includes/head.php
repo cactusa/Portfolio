@@ -8,4 +8,6 @@
 <![endif]-->
 <script src="//code.jquery.com/jquery-1.11.3.min.js"></script>
 <script src="/js/imgpreload.js" type="text/javascript"></script>
+<meta http-equiv="x-ua-compatible" content="ie=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1">
 <?php include('analytics.php');?>

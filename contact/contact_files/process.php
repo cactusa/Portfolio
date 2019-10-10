@@ -11,6 +11,8 @@ $success_msj = 'Your message has been sent. Thank you for your interest. I will 
 // edit error message
 $error_msj = 'Oops, There has been an error. Please try again in a few minutes';
 
+$subject = 'Portfolio email';
+
 // Pull out data from contact form
 	$fname = htmlspecialchars(trim($_POST['fname']));
 	$email = htmlspecialchars(trim($_POST['email']));
