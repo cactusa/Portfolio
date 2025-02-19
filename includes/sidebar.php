@@ -15,10 +15,9 @@
 
 	<footer>
 		<ul>
-			<li><a class="facebookicon" href="http://www.facebook.com/vladislav.altanov"></a></li>
-			<li><a class="linkedinicon" href="http://www.linkedin.com/profile/view?id=145837829&trk=tab_pro"></a></li>
-			<li><a class="twittericon" href="https://twitter.com/#!/Vlad_the_cactus"></a></li>
-			<li><a class="instagramicon" href="http://instagram.com/vlad_the_cactus"></a></li>
+			<li><a class="facebookicon" href="https://www.facebook.com/vladislav.altanov"></a></li>
+			<li><a class="linkedinicon" href="https://www.linkedin.com/in/vladislav-altanov/"></a></li>
+			<li><a class="instagramicon" href="https://instagram.com/vlad_the_cactus"></a></li>
 			<li><a class="githubicon" href="https://github.com/cactusa"></a></li>
 		</ul>
 		<p>Vladislav Altanov &copy; <?php echo date("Y"); ?><br /> All rights reserved.</p>
