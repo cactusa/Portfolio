@@ -219,6 +219,8 @@ cgi-bin/
 error_log
 htaccess-sh.txt
 sh_logo.png
+.htaccess
+deploy.sh
 
 ### Intellij
 .idea
