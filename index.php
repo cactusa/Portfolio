@@ -15,7 +15,7 @@
             	<h1><span class="effects">V</span><span class="effects">l</span><span class="effects">a</span><span class="effects">d</span><span class="effects">i</span><span class="effects">s</span><span class="effects">l</span><span class="effects">a</span><span class="effects">v</span> <span class="effects">A</span><span class="effects">l</span><span class="effects">t</span><span class="effects">a</span><span class="effects">n</span><span class="effects">o</span><span class="effects">v</span></h1>
                 <figure class="cap-bot">
                     <a href="about/" ><img class="myface" src="img/my-face-small.jpg" width="200" height="200" alt="Picture of my face." /></a>
-                    <figcaption>Picture of my face.</figcaption>
+                    <figcaption>Picture of my face</figcaption>
                 </figure>
                 <h2>This is the portfolio website of a web designer in development Vladislav Altanov</h2>
                 <p class="italicparagraph homepageparagraph">I love to do both Design and Develop for the web and I always do it mindful of the web standards and usability aspects.</p>
